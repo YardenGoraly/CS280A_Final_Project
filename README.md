@@ -2,6 +2,8 @@
 ## (Unsupervised Object Representations)
 ## CS 280A Final Project
 
+To find code for the perturbations and teacher-student model go to master branch.
+
 Here, we include more visual results from our project:
 
 ![image](assets/image.png)
