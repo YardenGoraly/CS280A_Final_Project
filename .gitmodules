@@ -1,0 +1,3 @@
+[submodule "LDM"]
+	path = LDM
+	url = https://github.com/CompVis/latent-diffusion
