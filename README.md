@@ -8,6 +8,26 @@ Here, we include more visual results from our project:
 
 ### Latent Perturbation
 
+#### Movi-A Data
+<img src="assets/perturb/movi/orig.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/y-x.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/yx.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/ytrans.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/glossy.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/opacity.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/ytransobj.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/movi/ytransobj2.gif" alt="perturb_0" width="128" />
+
+#### Real World
+<img src="assets/perturb/real/orig.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/-ytrans.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/xtrans.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/ytrans.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/size_dec.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/size_inc.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/opacity.gif" alt="perturb_0" width="128" />
+<img src="assets/perturb/real/color.gif" alt="perturb_0" width="128" />
+
 ### Diffusion
 
 #### DDPM-A Reconstructions (Movi-A Data)
@@ -123,3 +143,7 @@ T=24 (loss of object) \
 
 
 ### Teacher-Student Model
+
+#### With vs. Without Mask Loss
+<img src="assets/teacher/mask.gif" alt="teacher_0" width="128" />
+<img src="assets/teacher/no_mask.gif" alt="teacher_0" width="128" />
