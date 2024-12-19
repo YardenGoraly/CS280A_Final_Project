@@ -9,37 +9,43 @@ Here, we include more visual results from our project:
 ### Latent Perturbation
 
 #### Movi-A Data
-<img src="assets/perturb/movi/orig.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/y-x.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/yx.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/ytrans.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/glossy.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/opacity.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/ytransobj.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/movi/ytransobj2.gif" alt="perturb_0" width="128" />
+<p>
+  <img src="assets/perturb/movi/orig.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/y-x.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/yx.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/ytrans.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/glossy.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/opacity.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/ytransobj.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/movi/ytransobj2.gif" alt="perturb_0" width="128" />
+</p>
 
 #### Real World
-<img src="assets/perturb/real/orig.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/-ytrans.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/xtrans.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/ytrans.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/size_dec.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/size_inc.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/opacity.gif" alt="perturb_0" width="128" />
-<img src="assets/perturb/real/color.gif" alt="perturb_0" width="128" />
+<p>
+  <img src="assets/perturb/real/orig.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/-ytrans.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/xtrans.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/ytrans.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/size_dec.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/size_inc.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/opacity.gif" alt="perturb_0" width="128" />
+  <img src="assets/perturb/real/color.gif" alt="perturb_0" width="128" />
+</p>
 
 ### Diffusion
 
 #### DDPM-A Reconstructions (Movi-A Data)
 Base Reconstruction \
-<img src="assets/movi_a_recons/0.gif" alt="ddpm_c_0" width="128" />
-<img src="assets/movi_a_recons/1.gif" alt="ddpm_c_1" width="128" />
-<img src="assets/movi_a_recons/2.gif" alt="ddpm_c_2" width="128" />
-<img src="assets/movi_a_recons/3.gif" alt="ddpm_c_3" width="128" />
-<img src="assets/movi_a_recons/4.gif" alt="ddpm_c_4" width="128" />
-<img src="assets/movi_a_recons/5.gif" alt="ddpm_c_5" width="128" />
-<img src="assets/movi_a_recons/6.gif" alt="ddpm_c_6" width="128" />
-<img src="assets/movi_a_recons/7.gif" alt="ddpm_c_7" width="128" />
+<p>
+  <img src="assets/movi_a_recons/0.gif" alt="ddpm_c_0" width="128" />
+  <img src="assets/movi_a_recons/1.gif" alt="ddpm_c_1" width="128" />
+  <img src="assets/movi_a_recons/2.gif" alt="ddpm_c_2" width="128" />
+  <img src="assets/movi_a_recons/3.gif" alt="ddpm_c_3" width="128" />
+  <img src="assets/movi_a_recons/4.gif" alt="ddpm_c_4" width="128" />
+  <img src="assets/movi_a_recons/5.gif" alt="ddpm_c_5" width="128" />
+  <img src="assets/movi_a_recons/6.gif" alt="ddpm_c_6" width="128" />
+  <img src="assets/movi_a_recons/7.gif" alt="ddpm_c_7" width="128" />
+</p>
 
 T=8 Denoising (more lossy) \
 ![ddpm_a_0](assets/trial28/0.gif)
@@ -144,6 +150,32 @@ T=24 (loss of object) \
 
 ### Teacher-Student Model
 
-#### With vs. Without Mask Loss
-<img src="assets/teacher/mask.gif" alt="teacher_0" width="128" />
-<img src="assets/teacher/no_mask.gif" alt="teacher_0" width="128" />
+#### With Mask Loss
+<p>
+  <img src="assets/teacher/mask_0.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/mask_96.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/mask_276.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/mask_296.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/mask_386.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/mask_589.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/mask_835.gif" alt="teacher_0" width="128" />
+</p>
+
+#### Without Mask Loss
+<p>
+  <img src="assets/teacher/socs_0.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/socs_96.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/socs_276.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/socs_296.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/socs_386.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/socs_589.gif" alt="teacher_0" width="128" />
+  <img src="assets/teacher/socs_835.gif" alt="teacher_0" width="128" />
+</p>
+
+#### Training Loss
+<p>
+  <img src="assets/teacher/recons_loss.png" alt="teacher_0" width="256" />
+  <img src="assets/teacher/distr_loss.png" alt="teacher_0" width="256" />
+  <img src="assets/teacher/raw_mask_loss.png" alt="teacher_0" width="256" />
+  <img src="assets/teacher/total_loss.png" alt="teacher_0" width="256" />
+</p>
